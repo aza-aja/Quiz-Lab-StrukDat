@@ -52,4 +52,4 @@ Lakukan langkah yang sama untuk program lainnya dengan menyesuaikan nama file.
 
 ## Video Penjelasan
 
-Link YouTube: **[Masukkan link video di sini]**
+Link YouTube: **https://youtu.be/1NtPkXVSH-0**
