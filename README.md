@@ -25,16 +25,12 @@ Menggunakan Hash Table dengan metode Double Hashing untuk operasi Insert, Search
 ## Struktur Folder
 
 ```text
-Quiz-Lab-Struktur-Data-3-4/
-├── Soal1/
-│   └── nilai_mahasiswa.cpp
-├── Soal2/
-│   └── perpustakaan.cpp
-├── Soal3/
-│   └── rute_kampus.cpp
-├── Soal4/
-│   └── hash_table.cpp
-└── README.md
+Quiz_Lab_StrukDat/
+- soal1/nilai_mahasiswa.cpp
+- soal2/perpustakaan.cpp
+- soal3/rute_kampus.cpp
+- soal4/hash_table.cpp
+- README.md
 ```
 
 ## Cara Menjalankan Program
