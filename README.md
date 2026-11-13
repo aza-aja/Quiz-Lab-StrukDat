@@ -1,14 +1,14 @@
-# Quiz-Lab-StrukDat
-# QUIZ LAB STRUKTUR DATA 3 & 4
+# QUIZ LAB 4 STRUKTUR DATA 
 
-## Identitas Mahasiswa
+## Identitas
 - **Nama:** Azriel Zaidan Arva
-- **Program Studi:** S1 Ilmu Komputer
-- **Universitas:** Universitas Sumatera Utara
+- **NIM:** 251401137
+- **KOM:** B
+- **LAB:** 4
 
 ## Deskripsi Program
 
-Repository ini berisi empat program C++ untuk memenuhi tugas Quiz Lab Struktur Data 3 & 4.
+Repository ini berisi empat program C++ untuk memenuhi tugas Quiz Lab 4 Struktur Data.
 
 ### Soal 1 - Sistem Pengelolaan Nilai Mahasiswa
 Menggunakan Dynamic Array, Single Linked List, Insertion Sort, Linear Search, dan Binary Search untuk mengelola data nilai mahasiswa.
