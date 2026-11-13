@@ -1,1 +1,55 @@
 # Quiz-Lab-StrukDat
+# QUIZ LAB STRUKTUR DATA 3 & 4
+
+## Identitas Mahasiswa
+- **Nama:** Azriel Zaidan Arva
+- **Program Studi:** S1 Ilmu Komputer
+- **Universitas:** Universitas Sumatera Utara
+
+## Deskripsi Program
+
+Repository ini berisi empat program C++ untuk memenuhi tugas Quiz Lab Struktur Data 3 & 4.
+
+### Soal 1 - Sistem Pengelolaan Nilai Mahasiswa
+Menggunakan Dynamic Array, Single Linked List, Insertion Sort, Linear Search, dan Binary Search untuk mengelola data nilai mahasiswa.
+
+### Soal 2 - Sistem Antrean dan Pengelolaan Buku Perpustakaan
+Menggunakan Queue untuk antrean peminjaman, Stack untuk riwayat pengembalian, dan Binary Search Tree (BST) untuk menyimpan serta mencari ID buku.
+
+### Soal 3 - Sistem Pencarian Rute di Lingkungan Kampus
+Menggunakan Graph dengan Adjacency Matrix, algoritma BFS, DFS, dan Dijkstra untuk mencari rute terpendek.
+
+### Soal 4 - Sistem Pengelolaan Data Mahasiswa Menggunakan Hash Table
+Menggunakan Hash Table dengan metode Double Hashing untuk operasi Insert, Search, Remove, dan Display data mahasiswa.
+
+## Struktur Folder
+
+```text
+Quiz-Lab-Struktur-Data-3-4/
+├── Soal1/
+│   └── nilai_mahasiswa.cpp
+├── Soal2/
+│   └── perpustakaan.cpp
+├── Soal3/
+│   └── rute_kampus.cpp
+├── Soal4/
+│   └── hash_table.cpp
+└── README.md
+```
+
+## Cara Menjalankan Program
+
+Pastikan compiler C++ seperti g++ sudah terpasang.
+
+Contoh menjalankan program Soal 1:
+
+```bash
+g++ nilai_mahasiswa.cpp -o nilai_mahasiswa
+./nilai_mahasiswa
+```
+
+Lakukan langkah yang sama untuk program lainnya dengan menyesuaikan nama file.
+
+## Video Penjelasan
+
+Link YouTube: **[Masukkan link video di sini]**
